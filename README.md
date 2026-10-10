@@ -146,6 +146,21 @@ from the last seven calendar days, including today.
 5. Commit your changes and push your branch.
 6. Open a pull request for review.
 
+
+## 📱 App Screenshots
+
+<p align="center">
+  <img src="screenshots/1.png" width="200" alt="Expenzia Dashboard" />
+  <img src="screenshots/2.png" width="200" alt="Expenzia Transaction History" />
+  <img src="screenshots/3.png" width="200" alt="Expenzia Add Transaction" />
+</p>
+
+<p align="center">
+  <img src="screenshots/4.png" width="200" alt="Expenzia Credit Management" />
+  <img src="screenshots/5.png" width="200" alt="Expenzia Profile" />
+</p>
+
+
 ## License
 
 No license has been specified yet. All rights are reserved unless a
