@@ -1,5 +1,5 @@
 
-cat > README.md <<'EOF'
+
 # Expenzia – Personal Expense Tracker
 
 Expenzia is a Flutter-based personal finance application designed to help
